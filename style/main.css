@@ -1,6 +1,6 @@
 :root{
-    --vemelho:rgba(255, 187, 0, 0.918);
-    --preta:#141414;
+    --vemelho:#FFFFFF;
+    --preta:#212121;
 }
 *{
     margin: 0;
